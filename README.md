@@ -1,4 +1,4 @@
-# Hi there! 👋 
+# Hi there! I'm Amit 👋 
 
 I'm a passionate AI developer focused on local and open-source models, bringing AI closer to end users while prioritizing privacy and offline capabilities.
 
