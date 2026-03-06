@@ -1,42 +1,32 @@
-# Hi there! I'm Amit 👋 
+Hi there! I'm Amit 👋
 
-I'm a passionate AI developer focused on local and open-source models, bringing AI closer to end users while prioritizing privacy and offline capabilities.
+AI Engineer building multi-agent systems and deploying open-source models locally.
 
-## 🚀 About Me
+🚀 What I Build
+- Multi-agent orchestration systems (RAG, tool calling, agentic memory)
+- Local LLM deployment with Ollama — coding assistants, chat systems, automation
+- Fine-tuning open-source models (Llama, Gemma, Qwen3-VL) with LoRA/QLoRA
+- Computer vision pipelines — real-time detection, OCR, document extraction
+- Speech synthesis and voice AI applications
+- RAG systems with pgvector, semantic search, and document ingestion
 
-* 🤖 Specialized in working with local AI models and open-source alternatives
-* 💻 Experienced with Groq acceleration for optimized model inference
-* 🔒 Advocate for privacy-first AI solutions and offline capabilities
-* 🌱 Contributing to making AI more accessible and deployable anywhere
-* 🔭 Currently working on projects that demonstrate the power of local models
+🛠️ Tech Stack
+Python, PyTorch, HuggingFace, PEFT/LoRA, LangChain, LangGraph, 
+Ollama, FastAPI, Docker, PostgreSQL/pgvector, Azure OpenAI, 
+OpenCV, MCP, CUDA
 
+🧠 Models I Work With
+Llama, Gemma, Qwen3-VL, Mistral, GPT-4o, FLUX.1 — 
+primarily focused on local/open-source deployment
 
+🎯 Philosophy
+AI should run locally, stay private, and work offline. I build systems 
+that keep data control in users' hands while matching cloud API performance. 
+Most of my work focuses on fine-tuning and deploying open-source models 
+on local infrastructure — no external dependencies required.
 
-## 🛠️ Technical Focus
-
-* **Local Model Development**: Implementing and optimizing AI models for local deployment
-* **Offline-First Solutions**: Building applications that work seamlessly without internet dependency
-* **Privacy-Preserving AI**: Creating solutions that keep data control in users' hands
-* **Performance Optimization**: Leveraging Groq and other accelerators for efficient model inference
-* **Open Source Contributions**: Active participant in the open-source AI community
-
-## 🎯 Philosophy
-
-I believe in:
-* Making AI accessible without compromising privacy
-* Building solutions that work anywhere, regardless of internet connectivity
-* Contributing to the open-source ecosystem to democratize AI
-* Optimizing for real-world deployment and practical applications
-
-
-## 💡 Current Interests
-
-* Exploring efficient model quantization techniques
-* Developing lightweight alternatives to popular AI models
-* Creating tools for local model deployment
-* Optimizing inference performance with specialized hardware
-* Building privacy-preserving AI applications
-
----
-
-*"Making AI accessible, private, and deployable anywhere."*
+💡 Currently Exploring
+- Vision-language model fine-tuning for domain-specific tasks
+- Multi-agent orchestration patterns
+- MCP (Model Context Protocol) integrations
+- Efficient model quantization for edge deployment
