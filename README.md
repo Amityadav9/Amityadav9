@@ -11,15 +11,18 @@ AI Engineer building multi-agent systems and deploying open-source models locall
 - RAG systems with pgvector, semantic search, and document ingestion
 
 🛠️ Tech Stack
+
 Python, PyTorch, HuggingFace, PEFT/LoRA, LangChain, LangGraph, 
 Ollama, FastAPI, Docker, PostgreSQL/pgvector, Azure OpenAI, 
 OpenCV, MCP, CUDA
 
 🧠 Models I Work With
+
 Llama, Gemma, Qwen3-VL, Mistral, GPT-4o, FLUX.1 — 
 primarily focused on local/open-source deployment
 
 🎯 Philosophy
+
 AI should run locally, stay private, and work offline. I build systems 
 that keep data control in users' hands while matching cloud API performance. 
 Most of my work focuses on fine-tuning and deploying open-source models 
